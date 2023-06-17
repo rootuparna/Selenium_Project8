@@ -1,0 +1,14 @@
+2016-06-28 09:50:31,325 [main] INFO Regression - browser launched successfully
+2016-06-28 09:50:31,331 [main] INFO Regression - browser launched successfully
+2016-06-29 09:51:33,664 [main] INFO projectReport - enter data admin
+2016-06-29 09:51:34,108 [main] INFO projectReport - enter data manager
+2016-06-29 09:51:34,276 [main] INFO projectReport - performed action  click
+2016-06-29 09:52:36,421 [main] INFO projectReport - enter data admin
+2016-06-29 09:52:37,090 [main] INFO projectReport - enter data manager
+2016-06-29 09:52:37,266 [main] INFO projectReport - performed action  click
+2016-06-29 09:54:57,765 [main] INFO projectReport - enter data admin
+2016-06-29 09:54:58,396 [main] INFO projectReport - enter data manager
+2016-06-29 09:55:58,559 [main] INFO projectReport - Locator not found linktext
+2016-06-29 09:59:16,088 [main] INFO projectReport - enter data admin
+2016-06-29 09:59:16,628 [main] INFO projectReport - enter data manager
+2016-06-29 09:59:16,796 [main] INFO projectReport - performed action  click
